@@ -1,4 +1,4 @@
-# StadiumSupervisor-Docs
+# StadiumSupervisor
 
 Welcome to the documentation for [StadiumSupervisor](https://stadiumsupervisor.com.au)! 
 The documentation is hosted at: https://docs.stadiumsupervisor.com.au.
