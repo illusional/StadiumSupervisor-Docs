@@ -17,5 +17,5 @@ If you find a bug or something that isn't working as expected, you may want to c
 There are 2 ways you can raise a ticket.
 
 1. Create a ticket at https://support.stadiumsupervisor.com.au
-2. Email support@stadiumsupervisor.com.au
+2. Email [support@stadiumsupervisor.com.au](mailto:support@stadiumsupervisor.com.au)
 
